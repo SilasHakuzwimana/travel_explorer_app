@@ -1,5 +1,5 @@
 
-```abc
+
 # ✈️ Travel Explorer - Flutter UI Challenge
 
 <div align="center">
@@ -42,6 +42,7 @@ Travel Explorer is a sophisticated mobile application UI built with Flutter that
 - ✅ Responsive spacing techniques
 
 ## 🏗️ Architecture
+```bash
 lib/
 ├── main.dart # App entry point
 ├── models/
@@ -62,7 +63,7 @@ lib/
 └── constants/
 └── app_constants.dart # App constants
 
-text
+```
 
 ## 📸 Screenshots
 
@@ -96,21 +97,27 @@ text
    ```bash
    git clone https://github.com/yourusername/travel_app.git
    cd travel_app
+   ```
 Install dependencies
 
-bash
+```bash
 flutter pub get
 Run the app
-
-bash
+```
+```bash
 flutter run
+```
 Build for Production
-bash
-# Android APK
-flutter build apk --release
 
+# Android APK
+```bash
+flutter build apk --release
+```
 # iOS IPA
+```bash
 flutter build ios --release
+```
+
 🎨 UI Components
 Widgets Used (20+)
 Widget Category	Widgets
@@ -249,7 +256,7 @@ Flutter Documentation
 Material Design Guidelines
 
 Travel app design inspiration
-```
+```bash
 
 lib/
 ├── main.dart # App entry point
@@ -270,8 +277,6 @@ lib/
 │ └── app_theme.dart # Color scheme
 └── constants/
 └── app_constants.dart # App constants
-
-**text**
 
 ```
 
@@ -310,7 +315,6 @@ lib/
 ```
 
 2. **Install dependencies**
-   **bash**
 
    ```
    flutter pub get
@@ -328,9 +332,11 @@ lib/
 
 ```
 # Android APK
+```bash
 flutter build apk --release
-
+```
 # iOS IPA
+```bash
 flutter build ios --release
 ```
 
