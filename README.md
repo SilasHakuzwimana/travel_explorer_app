@@ -227,4 +227,4 @@ Silas Hakuzwimana
 2. Material Design Guidelines
 3. Travel app design inspirations
 
-<div align="center"> <sub>Built with ❤️ using Flutter</sub> <br> <sub>© 2024 Travel Explorer UI Challenge</sub> </div>
+<div align="center"> <sub>Built with ❤️ using Flutter</sub> <br> <sub>© 2026 Travel Explorer UI Challenge</sub> </div>
