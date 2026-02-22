@@ -19,9 +19,9 @@
   <h2>📱 App Demo Video</h2>
   
   <video width="600" controls style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-    <source src="assets/demo/travel_explorer_app_demo.mp4" type="video/mp4">
+    <source src="assets/screenshots/travel_explorer_app_demo.mp4" type="video/mp4">
     Your browser does not support the video tag. 
-    <a href="assets/demo/travel_explorer_app_demo.mp4">Download the demo video</a>
+    <a href="assets/screenshots/travel_explorer_app_demo.mp4">Download the demo video</a>
   </video>
   
   <p>
