@@ -13,25 +13,45 @@
     <img src="https://img.shields.io/badge/UI-Complex%20Layouts-orange" alt="UI">
     <img src="https://img.shields.io/badge/State-Hard--coded%20Data-yellow" alt="Data">
   </div>
-</div>
 
-<div align="center">
-  <h2>📱 App Demo Video</h2>
+  <!-- Demo Video Section -->
+  <br>
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+    <img src="https://img.shields.io/badge/📱-Watch%20Demo%20Video-2A9D8F?style=for-the-badge" 
+         alt="Watch Demo Video">
+  </a>
   
-  <video width="600" controls style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-    <source src="screenshots/travel_explorer_app_demo.mp4" type="video/mp4">
-    Your browser does not support the video tag. 
-    <a href="screenshots/travel_explorer_app_demo.mp4">Download the demo video</a>
+  <br>
+  
+  <table>
+    <tr>
+      <td><img src="screenshots/home_screen.jpg" width="200" style="border-radius: 10px;"></td>
+      <td><img src="screenshots/detail_screen.jpg" width="200" style="border-radius: 10px;"></td>
+      <td><img src="screenshots/booking_screen.jpg" width="200" style="border-radius: 10px;"></td>
+    </tr>
+  </table>
+  
+  <br>
+  <br>
+
+  <!-- Demo Video Section -->
+  <h2>📱 Demo Video</h2>
+  
+  <video width="300" controls style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <source src="screenshots/demo_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
   
+  <br>
+  <br>
+  
   <p>
-    <strong>▶️ Watch the full app walkthrough above</strong>
+    <strong>⬆️ Click play to see the complete navigation flow</strong>
+    <br>
+    <em>(Home → Detail → Booking → Back)</em>
   </p>
-  <p>
-    <em>Shows: Home Screen → Detail Screen → Booking Screen → Navigation Flow</em>
-  </p>
-</div>
 
+</div>
 ## 📱 Project Overview
 
 Travel Explorer is a sophisticated mobile application UI built with Flutter that demonstrates advanced layout techniques, multi-screen navigation, and custom widget composition. This project focuses on creating a visually appealing travel booking interface with completely hard-coded data - perfect for learning complex UI patterns without backend dependencies.
@@ -112,7 +132,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/travel_app.git
+   git clone https://github.com/SilasHakuzwimana/travel_app.git
    cd travel_app
    ```
 Install dependencies
@@ -748,8 +768,8 @@ This project is created for educational purposes as part of a Flutter UI design 
 
 **Your Name**
 
-* GitHub: [@yourusername](https://github.com/yourusername)
-* LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+* GitHub: [@SilasHakuzwimana](https://github.com/SilasHakuzwimana)
+* LinkedIn: [SilasHakuzwimana](https://linkedin.com/in/SilasHakuzwimana)
 
 ## 🙏 Acknowledgments
 
