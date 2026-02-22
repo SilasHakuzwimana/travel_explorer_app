@@ -14,43 +14,82 @@
     <img src="https://img.shields.io/badge/State-Hard--coded%20Data-yellow" alt="Data">
   </div>
 
-  <!-- Demo Video Section -->
   <br>
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.shields.io/badge/📱-Watch%20Demo%20Video-2A9D8F?style=for-the-badge" 
-         alt="Watch Demo Video">
-  </a>
-  
   <br>
-  
+
+  <!-- Screenshots Row -->
   <table>
     <tr>
       <td><img src="screenshots/home_screen.jpg" width="200" style="border-radius: 10px;"></td>
       <td><img src="screenshots/detail_screen.jpg" width="200" style="border-radius: 10px;"></td>
       <td><img src="screenshots/booking_screen.jpg" width="200" style="border-radius: 10px;"></td>
     </tr>
+    <tr>
+      <td align="center"><b>🏠 Home</b></td>
+      <td align="center"><b>📋 Detail</b></td>
+      <td align="center"><b>📅 Booking</b></td>
+    </tr>
   </table>
-  
+
   <br>
   <br>
 
   <!-- Demo Video Section -->
   <h2>📱 Demo Video</h2>
   
-  <video width="300" controls style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-    <source src="screenshots/demo_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://drive.google.com/file/d/1i3Uf2q_gBajPjgdr7pDkPFVtsungd3Yu/view?usp=sharing" target="_blank">
+    <img src="screenshots/home_screen.jpg" 
+         alt="Watch Demo Video on Google Drive"
+         width="300" 
+         style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); cursor: pointer; transition: transform 0.3s;"
+         onmouseover="this.style.transform='scale(1.02)'"
+         onmouseout="this.style.transform='scale(1)'">
+  </a>
+  
+  <br>
+  <br>
+  
+  <a href="https://drive.google.com/file/d/1i3Uf2q_gBajPjgdr7pDkPFVtsungd3Yu/view?usp=sharing" 
+     target="_blank"
+     style="display: inline-block; 
+            background: #2A9D8F; 
+            color: white; 
+            padding: 15px 30px; 
+            text-decoration: none; 
+            border-radius: 30px; 
+            font-weight: bold;
+            font-size: 18px;
+            box-shadow: 0 5px 15px rgba(42,157,143,0.3);
+            transition: all 0.3s;">
+    ▶️ WATCH FULL DEMO ON GOOGLE DRIVE
+  </a>
   
   <br>
   <br>
   
   <p>
-    <strong>⬆️ Click play to see the complete navigation flow</strong>
+    <em>✨ Complete navigation flow: Home → Detail → Booking → Back</em>
     <br>
-    <em>(Home → Detail → Booking → Back)</em>
+    <small>⬆️ Click the image or button above to watch on Google Drive (no download required)</small>
   </p>
 
+  <!-- Alternative Download Option -->
+  <details>
+    <summary><b>📥 Alternative Download Options</b></summary>
+    <br>
+    <ul align="left" style="display: inline-block; text-align: left;">
+      <li>🔗 <a href="https://drive.google.com/file/d/1i3Uf2q_gBajPjgdr7pDkPFVtsungd3Yu/view?usp=sharing" target="_blank">Watch on Google Drive (Recommended)</a></li>
+      <li>📁 <a href="screenshots/demo_video.mp4" download>Direct Download (MP4)</a></li>
+    </ul>
+    <br>
+    <small>Video shows full app functionality in 2 minutes</small>
+  </details>
+
+  <br>
+  
+  <!-- Visitor Counter / Video Views (Optional) -->
+  <img src="https://img.shields.io/badge/dynamic/json?color=2A9D8F&label=Video%20Views&query=viewCount&suffix=%20views&url=https%3A%2F%2Fwww.googleapis.com%2Fdrive%2Fv3%2Ffiles%2F1i3Uf2q_gBajPjgdr7pDkPFVtsungd3Yu%3Ffields%3DviewedByMeTime" 
+       alt="Video Views">
 </div>
 ## 📱 Project Overview
 
