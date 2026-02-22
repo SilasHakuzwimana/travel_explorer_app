@@ -15,6 +15,23 @@
   </div>
 </div>
 
+<div align="center">
+  <h2>📱 App Demo Video</h2>
+  
+  <video width="600" controls style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <source src="assets/demo/travel_explorer_app_demo.mp4" type="video/mp4">
+    Your browser does not support the video tag. 
+    <a href="assets/demo/travel_explorer_app_demo.mp4">Download the demo video</a>
+  </video>
+  
+  <p>
+    <strong>▶️ Watch the full app walkthrough above</strong>
+  </p>
+  <p>
+    <em>Shows: Home Screen → Detail Screen → Booking Screen → Navigation Flow</em>
+  </p>
+</div>
+
 ## 📱 Project Overview
 
 Travel Explorer is a sophisticated mobile application UI built with Flutter that demonstrates advanced layout techniques, multi-screen navigation, and custom widget composition. This project focuses on creating a visually appealing travel booking interface with completely hard-coded data - perfect for learning complex UI patterns without backend dependencies.
